@@ -10,4 +10,11 @@ the secobd version has been released! yay!
 -still hasn''t been released as a currency
 
 
+tpyo alpha -10.0.0.0.0.1.0 adams
+the secobd version has been released! yay!
+-has no value yet
+-now makes .typo coins
+-still hasn''t been released as a currency
+
+
 
