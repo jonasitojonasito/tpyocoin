@@ -12,7 +12,7 @@ while true; do
 		file_name1=${file_name}.tar.gz;
 		file_name3=${file_name}.tar.gz.gpg;
 		tar -zcvf $file_name1 $file_conts;
-		gpg --encrypt --recipient 'C513 B610 5490 19FE 83EB DCB2 322F 7280 070D 501E' $file_name1;
+		gpg --encrypt --recipient '' $file_name1;
 		rm $file_name1
 		chmod go-w $file_name3
 		sleep 1
