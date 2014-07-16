@@ -28,6 +28,18 @@ the secnod version has been released! yay!
 
 -next version will be trialled
 
+tpyo alpha -5.0.0.0.0.0.0 Beeblebrox
+
+the tihrd version has been released! yay!
+
+-finally has a value 
+
+-GIGANTIC flaw fixed
+-still has been released as a currency
+
+-currently being trialled
+
+
 
 
 
