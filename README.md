@@ -39,7 +39,15 @@ the tihrd version has been released! yay!
 
 -currently being trialled
 
+tpyo beta -1.0 Computer
 
+the fhoutrh version has been released!
 
+-overseas functionality being tested ;)
 
+-GIGANTIC flaw fixed
+
+-a "tpyo checker" is currently being trialled
+
+-no longer makes .tpyos due to a risk that outweighed its advantages
 
